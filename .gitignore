@@ -1,4 +1,4 @@
-# Ignore backend dependencies
+# Ignore backend dependencies //
 /backend/node_modules/
 
 # Ignore frontend dependencies
